@@ -28,3 +28,4 @@ for (i = 0; i < a; i++) {
 let a = [20, 40, 78, 89, 90, 43];
 a.splice(3, 2, 3, 4, 5, 6);
 console.log(a);
+console.log(a.length);
